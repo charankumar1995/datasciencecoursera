@@ -1,5 +1,5 @@
 ---
-title: "HelloWorld.md"
+title: "First R Markdown File of mine"
 author: "Charan"
 date: "2/16/2020"
 output: html_document
